@@ -7,6 +7,6 @@ To use this library, include the following maven dependency
 <dependency>
     <groupId>io.kubernetes</groupId>
     <artifactId>client-java-spark-operator-models</artifactId>
-    <version>15.0.0-SNAPSHOT</version>
+    <version>15.0.0</version>
 </dependency>
 ```
