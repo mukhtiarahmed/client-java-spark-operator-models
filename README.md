@@ -1,4 +1,4 @@
-# Spark Operator Model Classes
+# Kubernetes Spark Operator Java Client
 This module contains the Java model classes generated from the release version of [spark operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator/blob/master/manifest/crds/sparkoperator.k8s.io_sparkapplications.yaml) CRDs.
 
 ## Usage
